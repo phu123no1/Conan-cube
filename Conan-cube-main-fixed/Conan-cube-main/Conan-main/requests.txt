@@ -1,0 +1,14 @@
+PySide6
+pymongo
+cryptography
+python-dotenv
+opencv-python
+numpy
+keyboard
+mss
+pyautogui
+pynput
+pytesseract
+requests
+websocket-client
+pywin32
